@@ -7,9 +7,9 @@ Machine Learning become everything in our day-to-day life these days. We can see
 
 Supervised Machine learning Models are the models that predict data using labelled data which means the data which is used has a target variable and some extra features which are used to predict that target variable. Imagine you have data of a triangle like base value and height value and you have to find the perimeter of the triangle here base and height are features which are used to find the target and perimeter is the target feature. There are two types of supervised models -:
 
-Regression
+* Regression
 
-Classification
+* Classification
 
 ### Regression
 
