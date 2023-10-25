@@ -1,9 +1,9 @@
 
-Introduction
+# Introduction
 
 Machine Learning become everything in our day-to-day life these days. We can see ML models everywhere in this world from nano (medicine) to macro (cars) technologies you can see using machine learning models. There are four types of Machine Learning Models.
 
-Supervised Learning Models
+## Supervised Learning Models
 
 Supervised Machine learning Models are the models that predict data using labelled data which means the data which is used has a target variable and some extra features which are used to predict that target variable. Imagine you have data of a triangle like base value and height value and you have to find the perimeter of the triangle here base and height are features which are used to find the target and perimeter is the target feature. There are two types of supervised models -:
 
@@ -11,17 +11,17 @@ Regression
 
 Classification
 
-Regression
+### Regression
 
 Regression is a method which tells the relationship between independent and dependent variables using a hyperplane. In the cricket scorecard, you can see the batsman stats where you can how many 1’s and 2’s he took and how many 4s and 6s he smashed based on this data you can find his score. This can be an example of regression taking features like 1’s and 2’s and 4’s and 6’s as features which are used to find the target feature and the target feature is the score of the batsman. One of the best examples of Regression is Linear Regression.
 
 If you are a cricket lover, like my blog😉
 
-Classification
+### Classification
 
 It is a method of grouping similar objects and separating them into classes. It will learn from the data and classify them into classes(groups). Imagine in New York there is a family where there is a mom and two sons. Those two sons always play with specific toys and whenever they want to play they ask their mom to give them those toys so the mom used to give them every time and every time after they played they used to mess that place. So one day Mom did one thing based on their properties she divided them into groups and took around 4 boxes which were labeled with toy names and placed them in different boxes based on their properties. This process is known as Classification. One of the best examples for classification in ml is the Decision Tree. One of the examples of classification is spam checkers in Gmail.
 
-Unsupervised Learning Models
+## Unsupervised Learning Models
 
 In Contrast to Supervised ML, Unsupervised ML models have no labelled data. I think this is not a full-fledged definition. In Unsupervised ML there will be labels for the data but there won't be any target feature in the data to predict. So it will learn the patterns from the data and make them into clusters. Clusters are almost similar to classes which are done in classification but clusters are made using similarities and classes are predefined. I can give the same previous example but instead of labelled boxes there are 4 boxes and the mom labelled them using the pattern she learned from the data. One of the best examples of Unsupervised ML is KMeans.
 
