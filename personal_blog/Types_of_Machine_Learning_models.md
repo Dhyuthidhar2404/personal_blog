@@ -1,6 +1,6 @@
 ---
 title: Types of Machine Learning models
-date: 2023-12-23T08:58:49.423022
+date: 2023-12-23T09:02:07.756736
 ---
 
 # Introduction
