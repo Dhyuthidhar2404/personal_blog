@@ -1,6 +1,6 @@
 ---
 title: Mastering Linear Regression: From Basics to Gradient Descent
-date: 2024-01-06T08:37:35.206498
+date: 2024-01-06T09:04:05.186361
 ---
 
 ## Introduction
