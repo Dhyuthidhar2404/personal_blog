@@ -1,31 +1,31 @@
 ---
 title: Mastering Linear Regression: From Basics to Gradient Descent
-date: 2023-12-29T05:45:08.719967
+date: 2024-01-06T08:35:13.441330
 ---
 
-Introduction
+## Introduction
 
 Linear regression is a machine learning model used to predict the input by learning and analyzing some data. This blog will explore linear regression from the basics to the advanced level.
 
-What is Regression?
+## What is Regression?
 
 It is a statistical representation of the relationship between dependent and independent variables. It will tell how the dependent variables relate to the independent variables. It is used for predicting the value of the dependent variable using all independent variables. There are many types of regression techniques but the most common one is Linear Regression.
 
-What is Linear Regression?
+## What is Linear Regression?
 
 It is a Supervised Machine Learning Algorithm that tells the relationship between the dependent and independent variables. It assumes that the relation between these variables is a straight line. It takes the independent variable's data points and predicts the value of the dependent variable using that graph. The output of linear regression will be in a continuous form i.e. numerical value. For example, the output can be height, weight, age, revenue of the company, etc.
 
-Importance of Linear Regression -:
+## Importance of Linear Regression -:
 
 Many applications can be done because of linear regression including knowing the relationship between independent and dependent variables and prediction purposes, which helps in predicting the new value in the dependent variable. Linear regression can also be used for feature selection. Linear regression is used in medical fields and financial fields to predict stock prices etc.
 
-Mathematical Understanding of Linear Regression -:
+## Mathematical Understanding of Linear Regression -:
 
 We will make a linear regression model so that it will find the best-fit line that covers all the data points and helps us with prediction. As it is a line the formula for the straight line is y = mx + c. Here m is the slope of the line and c is the intercept of the line.
 
 Based on the equation you will get the predicted values and the distance between the predicted values and original values should be less. So the difference between those two points is known as error. If the error is the least then it is the best-fit line.
 
-Cost Function
+## Cost Function
 
 It is also known as loss function and mean squared error. The function is based on the error which is y(predicted) - y(actual).
 
@@ -43,7 +43,7 @@ How can we decrease this cost function?🤔
 
 Here comes the topic of gradient descent. Which is a very important topic in machine learning.
 
-Gradient Descent -:
+## Gradient Descent -:
 
 You will find this topic also in deep learning that is when we are discussing neural networks.
 
@@ -79,7 +79,7 @@ These two are the changes which we make in the gradient descent algorithm for th
 
 Here is the simpler version of those two formulas:
 
-Conclusion
+## Conclusion
 
 As we come to the end of our investigation of linear regression, from its fundamental ideas to the particulars of gradient descent, I kindly encourage you to participate in this educational experience. Please leave your questions, comments, and views below😉. Your engaged involvement enhances our educational process and creates the foundation for the next conversations.
 
